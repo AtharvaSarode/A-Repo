@@ -1,3 +1,3 @@
 # A-Repo
-This is my second Repository
-Autho- Atharva Sarode
+This is my second Repository.
+Author- Atharva Sarode
